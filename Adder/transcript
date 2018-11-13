@@ -1,0 +1,22 @@
+# vsim -c Testbench 
+# //  QuestaSim-64 6.5f Jun 16 2010 Linux 4.15.0-36-generic
+# //
+# //  Copyright 1991-2010 Mentor Graphics Corporation
+# //              All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND 
+# //  PROPRIETARY INFORMATION WHICH IS THE PROPERTY
+# //  OF MENTOR GRAPHICS CORPORATION OR ITS LICENSORS
+# //  AND IS SUBJECT TO LICENSE TERMS.
+# //
+# Loading work.Testbench
+# Loading work.kung_adder
+#                    0      0 0000000000000000 0     0     0
+#                  100   6000 0001011101110000 0  6000     0
+#                  200  29848 0111010010011000 0  6000 25000
+#                  500  13920 0011011001100000 0 55000 25000
+#                  800  55025 1101011011110001 0 55000    25
+#                 1300  32726 0111111111010110 0 32767    25
+#                 1800  65532 1111111111111100 0 32767 32767
+#                 2500  32764 0111111111111100 0 65535 32767
+#                 3200 131068 1111111111111100 1 65535 65535

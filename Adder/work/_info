@@ -1,0 +1,32 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/home/jrs322/EECS318/Lab2/Adder
+vkung_adder
+!s100 9llXI`dzK_ATicl@?9LTL2
+I5>3E>C]IUlHAP>V;ZC`c12
+VkbZn4Kd<Ug;83K1z[18C30
+w1541980668
+8bret-kung.v
+Fbret-kung.v
+L0 10
+Z1 OL;L;6.5f;42
+r1
+!s85 0
+31
+Z2 o-L mtiAvm -L mtiOvm -L mtiUPF
+vTestbench
+!s100 O7];jJI8>WzB<oTVmQfYn3
+I6VlUA1^jCkAoMgHkg07281
+VGdUiEZgaMiVEi@bgHJeE13
+w1541980459
+8testbench.v
+Ftestbench.v
+L0 3
+R1
+r1
+!s85 0
+31
+R2
+n@testbench
